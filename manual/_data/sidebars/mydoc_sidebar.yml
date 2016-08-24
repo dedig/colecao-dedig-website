@@ -1,0 +1,104 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Coleção Dedig
+  folders:
+
+  - title: Apresentação
+    url: /index.html
+    output: web, pdf
+    folderitems:
+
+    - title: Palavra Aos Pais e Educadores
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+  - title: Informações Teóricas
+    output: web, pdf
+    folderitems:
+
+    - title: Fundamentação Teórica Sobre Ensino-Aprendizagem
+      url: /fundamentacao-teorica.html
+      output: web, pdf
+
+    - title: Objetivos Gerais do Ensino da Língua Portuguesa
+      url: /objetivos-gerais.html
+      output: web, pdf
+
+    - title: Objetivos Específicos da Alfabetização
+      url: /objetivos-alfabetizacao.html
+      output: web, pdf
+
+    - title: Aprendizagem da Escrita
+      url: /aprendizagem-da-escrita.html
+      output: web, pdf
+
+    - title: Valor Sonoro Convencional
+      url: /valor-sonoro-convencional.html
+      output: web, pdf
+
+    - title: Letramento
+      url: /letramento.html
+      output: web, pdf
+
+    - title: Ambiente Alfabetizador
+      url: /ambiente-alfabetizador.html
+      output: web, pdf
+
+    - title: Gêneros Textuais Orais e Escritos
+      url: /generos-textuais-orais-e-escritos.html
+      output: web, pdf
+
+    - title: O Trabalho com Textos na Alfabetização
+      url: /o-trabalho-com-textos-na-alfabetizacao.html
+      output: web, pdf
+
+    - title: O Papel do Jogo na Alfabetização
+      url: /o-papel-do-jogo-na-alfabetizacao.html
+      output: web, pdf
+
+    - title: A Escrita Ortográfica
+      url: /escrita-ortografica.html
+      output: web, pdf
+
+  - title: Orientações Específicas
+    output: web, pdf
+    folderitems:
+
+    - title: Estrutura da Obra e Conteúdos Programáticos
+      url: /estrutura-da-obra.html
+      output: web, pdf
+
+    - title: Referências Bibliográficas
+      url: /referencias-bibliograficas.html
+      output: web, pdf      
+
+  - title: Aplicação das Atividades e Respostas
+    output: web, pdf
+    folderitems:
+
+    - title: Início
+      url: /livro-inicio.html
+      output: web, pdf
+
+    - title: No Mundo Das Letras
+      url: /no-mundo-das-letras.html
+      output: web, pdf
+
+    - title: Bichos e Mais Bichos
+      url: /bichos-e-mais-bichos.html
+      output: web, pdf
+
+    - title: Passeando Por Aí
+      url: /passeando-por-ai.html
+      output: web, pdf
+
+    - title: Comer Para Crescer
+      url: /comer-para-crescer.html
+      output: web, pdf
+
+    - title: Meios de Comunicação
+      url: /meios-de-comunicacao.html
+      output: web, pdf
