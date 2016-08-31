@@ -1,0 +1,25 @@
+*:focus {
+	outline: none;
+}
+
+.col-md-* {
+	margin-bottom: 30px;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+button {
+	width: 100%;
+	height: 89px;
+	border: none;
+}
+
+#logo-colecao-dedig {
+	z-index: 2;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
