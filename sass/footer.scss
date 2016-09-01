@@ -1,0 +1,52 @@
+/* FOOTER */
+
+// MIXINS
+
+@mixin pos($posX: 0, $posY: 0) {
+	margin-left: $posX;
+	margin-top: $posY;
+	width: auto;
+}
+
+// CSS
+
+#footer-menu {
+	p, a {
+	color: $white;
+	}
+
+	ul{
+		padding-left: 0;
+		list-style: none;
+	}
+
+	a p:hover, a:hover {
+		color: $lightblue;
+	}
+}
+
+.footer-item {
+	text-align: left;
+
+	@media only screen and (max-width: $screen-sm-max) {
+		text-align: center;
+	}
+}
+
+#logo-footer {
+	width: auto;
+	height: 120px;
+	
+	@media only screen and (max-width: $screen-sm-max) {
+		width: auto;
+	}
+
+	@media only screen and (max-width: $screen-xs-max) {
+		width: 100%;
+	}
+}
+
+#copyright {
+	background-color: $deepblue;
+	width: 100%;
+}

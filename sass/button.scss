@@ -1,0 +1,70 @@
+// PLACEHOLDERS
+
+%button-inactive {
+	font-weight: normal;
+	border-radius: 5px;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+}
+
+%button-active {
+	margin-top: 3px;
+	padding-bottom: 19px;
+	border: none;
+}
+
+%button-focus {
+	outline: none;
+}
+
+// MIXINS
+
+@mixin btn($light, $normal, $deep, $padding-in: 20px, $padding-ac: 20px 20px 19px, $font: #fff) {
+	button {
+		@extend %button-inactive;
+		color: $font;
+		background-color: $normal;
+		border-color: $deep;
+		padding: $padding-in;
+	}
+
+	button:hover {
+		background-color: $light;
+		border-color: $normal;
+	}
+
+	button:active {
+		@extend %button-active;
+		background-color: $normal;
+		padding: $padding-ac !important;
+	}
+
+	button:focus {
+		@extend %button-focus;
+	}
+}
+
+@mixin submit($light, $normal, $deep, $padding-in: 20px, $padding-ac: 20px 20px 19px, $font: #fff) {
+	input[type=submit] {
+		@extend %button-inactive;
+		color: $font;
+		background-color: $normal;
+		border-color: $deep;
+		padding: $padding-in;
+	}
+
+	input[type=submit]:hover {
+		background-color: $light;
+		border-color: $normal;
+	}
+
+	input[type=submit]:active {
+		@extend %button-active;
+		background-color: $normal;
+		padding: $padding-ac !important;
+	}
+
+	input[type=submit]:focus {
+		@extend %button-focus;
+	}
+}

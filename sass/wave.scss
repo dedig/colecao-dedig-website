@@ -1,0 +1,53 @@
+// PLACEHOLDERS
+
+%wave-default {
+	background-size: cover;
+	background-repeat: repeat-x;
+	width: 100%;
+	height: 85px;
+
+	
+	@media only screen and (max-width: 1900px) {
+		height: 40px;
+	}
+
+	@media only screen and (max-width: 1000px) {
+		height: 30px;
+	}
+
+	@media only screen and (max-width: $screen-xs-max) {
+		height: 10px;
+	}
+}
+
+// MIXINS
+
+@mixin wave ($bgfile) {
+	@extend %wave-default;
+	background-image: url($bgfile);
+}
+
+/* CONTENT */
+
+.wave-blue-top { @include wave('http://dedig.com.br/wp-content/themes/dedig/img/onda-azul-top.svg'); }
+.wave-orange-top { @include wave('http://dedig.com.br/wp-content/themes/dedig/img/onda-laranja-top.svg'); }
+.wave-blue-bottom { @include wave('http://dedig.com.br/wp-content/themes/dedig/img/onda-azul-bottom.svg'); }
+.wave-orange-bottom { @include wave('http://dedig.com.br/wp-content/themes/dedig/img/onda-laranja-bottom.svg'); }
+
+.orange-block {
+	background-color: $orange;
+	width: 100%;
+
+	h1, h2, h3, label, h4, h4 a, p {
+		color: $white;
+	}
+}
+
+.blue-block {
+	background-color: $blue;
+	width: 100%;
+	
+	h1, h2, h3, label, h4, h4 a, p {
+		color: $white;
+	}
+}
