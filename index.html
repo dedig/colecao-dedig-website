@@ -3,10 +3,16 @@
 <head>
 	<meta charset="utf-8">
 	<title>Coleção Dedig</title>
+	<link href="images/colecao-dedig-logo.ico" rel="icon" type="image/x-icon" />
+	<!--
 	<script  src="https://code.jquery.com/jquery-3.1.0.min.js"  integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="  crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	-->
+	<script type="text/javascript" src="bootstrap/jquery-3.1.0.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.min.css">
+	<script type="text/javascript" src="bootstrap/bootstrap.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -14,10 +20,10 @@
 		<div id="manual">
 			<a target="_blank" href="http://colecaodedig.com.br/manual" id="manual-btn"><p class="no-padding">Clique aqui para acessar o <strong>manual de pais e educadores</strong></p></a>
 		</div>
-		<div class="container">
+		<div class="container main-block">
 			<div class="row">
 				<div class="col-md-6">
-					<img src="images/turma.png" alt="Logo Coleção Dedig">
+					<img id ="ilustracao" src="images/turma.png" alt="Logo Coleção Dedig">
 					<div id="logo-colecao-dedig"><img src="images/colecao-dedig-logo.svg" alt="Turma da Dedig"></div>
 				</div>
 				<div id="buttons-block" class="col-md-6 no-padding">
@@ -30,18 +36,20 @@
 					<div class="col-md-12">
 						<h2>Download para dispositivo mobile:</h2>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-2"></div>
+					<div class="col-md-4 col-xs-6">
 						<a target="_blank" href="#"><img class="badge-img" src="images/app-store-badge.png" alt="Botão App Store"></a>
 					</div>
-					<div class="col-md-4">
+					<div class="col-md-4 col-xs-6">
 						<a target="_blank" href="#"><img class="badge-img" src="images/google-play-badge.png" alt="Botão Play Store"></a>
 					</div>
 					<div class="col-md-12">
 						<h2>Download para PC:</h2>
 					</div>
-					<div class="col-md-4"><a target="_blank" href="#"><button>Windows</button></a></div>
-					<div class="col-md-4"><a target="_blank" href="#"><button>Mac OSX</button></a></div>
-					<div class="col-md-4"><a target="_blank" href="#"><button>Linux</button></a></div>	
+					<div class="col-md-3"></div>
+					<div class="col-md-6">
+						<a target="_blank" href="#"><button>Download</button></a>
+					</div>
 				</div>
 				<div class="col-md-12">
 					<h1>O que é a Coleção Dedig?</h1>
@@ -51,35 +59,38 @@
 		</div>
 
 		<div class="wave-orange-top"></div>
-		<div class="orange-block">
+		<div class="orange-block contact-block">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<h1>Como posso ter acesso?</h1>
 						<p>Entre em contato conosco atráves do nosso e-mail ou telefone:</p>
-						<h2>Telefone: <a target="_blank" href="tel:+551135563940">(11) 3565-3940</a> e-mail: <a target="_blank" href="mailto:contato@dedig.com.br">contato@dedig.com.br</a></h2>	
+						<h2>Telefone: <a href="tel:+551135563940">(11) 3565-3940</a> e-mail: <a href="mailto:contato@dedig.com.br">contato@dedig.com.br</a></h2>	
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="wave-orange-bottom"></div>
 
-		<div class="container">
+		<div class="container app-content-block">
 			<div class="row">
 				<div class="col-md-12">
+					<h1>Conteúdo digital exclusivo</h1>
+				</div>
+				<div class="col-md-12">
 					<div class="col-md-4">
-						<h3>Desafios digitais</h3>
-						<img src="#" alt="desafios digitais">
+						<h3 class="app-content-block--title">Desafios digitais</h3>
+						<img src="images/desafios-digitais.png" alt="desafios digitais">
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 					</div>
 					<div class="col-md-4">
-						<h3>Animações</h3>
-						<img src="#" alt="animações">
+						<h3 class="app-content-block--title">Músicas e Animações</h3>
+						<img src="images/animacao.png" alt="animações">
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 					</div>
 					<div class="col-md-4">
-						<h3>História em quadrinhos</h3>
-						<img src="#" alt="história em quadrinhos">
+						<h3 class="app-content-block--title">História em quadrinhos</h3>
+						<img src="images/hq.png" alt="história em quadrinhos">
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
 					</div>
 				</div>
@@ -92,16 +103,22 @@
 		<div id="footer-menu" class="blue-block">
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-3 footer-item">
-						<a target="_blank" href="#"><img id="logo-footer" alt="Logo Dedig" src="http://dedig.com.br/wp-content/themes/dedig/img/logo-dedig-footer.png" /></a>
+					<div class="col-lg-3 col-md-4 footer-item">
+						<a target="_blank" href="#">
+							<img alt="Logo Dedig" src="images/logo-dedig.png" />
+						</a>
 					</div>
-					<div class="col-sm-3 footer-item">
-						<a target="_blank" href="#"><img id="logo-footer" src="images/colecao-dedig-logo.svg" alt="Logo Coleção Dedig"></a>
+					<div class="col-lg-3 col-md-4 footer-item">
+						<a target="_blank" href="#">
+							<img src="images/logo-colecao-dedig.png" alt="Logo Coleção Dedig">
+						</a>
 					</div>
-					<div class="col-sm-3 footer-item">
-						<a target="_blank" href="#"><img id="logo-footer" src="#" alt="Logo B4"></a>
+					<div class="col-lg-3 col-md-4 footer-item">
+						<a target="_blank" href="#">
+							<img src="images/logo-b4.png" alt="Logo B4">
+						</a>
 					</div>
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-md-12">
 						<div class="footer-item">
 							<h3>ENTRE EM CONTATO</h3>
 							<ul>

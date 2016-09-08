@@ -153,33 +153,47 @@ body button:focus, #buttons-block #jogar-online button:focus {
   list-style: none; }
 #footer-menu a p:hover, #footer-menu a:hover {
   color: #2ba7e7; }
-
-.footer-item {
+#footer-menu .footer-item {
   text-align: left; }
-  @media only screen and (max-width: 767px) {
-    .footer-item {
+  #footer-menu .footer-item img {
+    width: 80%; }
+    @media only screen and (max-width: 1199px) {
+      #footer-menu .footer-item img {
+        width: 70%; } }
+    @media only screen and (max-width: 991px) {
+      #footer-menu .footer-item img {
+        width: 40%;
+        margin: 30px 0; } }
+    @media only screen and (max-width: 480px) {
+      #footer-menu .footer-item img {
+        width: 70%; } }
+  @media only screen and (max-width: 1199px) {
+    #footer-menu .footer-item {
       text-align: center; } }
 
-#logo-footer {
-  width: auto;
-  height: 120px; }
-  @media only screen and (max-width: 767px) {
-    #logo-footer {
-      width: auto; } }
-  @media only screen and (max-width: 480px) {
-    #logo-footer {
-      width: 100%; } }
-
 #copyright {
+  text-align: center;
   background-color: #1c4d83;
   width: 100%; }
+
+img {
+  width: 100%; }
+
+a, a:focus {
+  color: #FFF; }
+
+a:hover {
+  color: #f1a581; }
+
+a:active {
+  color: #c05527; }
 
 #buttons-block #mockup {
   margin-left: auto;
   margin-right: auto;
   text-align: center; }
 
-img {
+#buttons-block img {
   width: 100%;
   height: auto; }
 
@@ -225,30 +239,54 @@ a:hover, a:focus, a:active {
     font-size: 1.2em;
     margin: 0; }
 
+#manual:hover {
+  background-color: #266ab8; }
+
+#manual:active {
+  background-color: #1c4d83; }
+
+@media only screen and (max-width: 991px) {
+  .main-block, .contact-block {
+    text-align: center; } }
+
 #logo-colecao-dedig {
   z-index: 2;
   position: absolute;
   top: 15px;
-  left: 20%;
-  width: 60%; }
+  left: 30%;
+  width: 40%; }
 
-#buttons-block h2 {
-  margin: 0; }
-#buttons-block #jogar-online button {
-  color: #fff;
-  background-color: #e07b4d;
-  border-color: #c05527;
-  padding: 20px; }
-#buttons-block #jogar-online button:hover {
-  background-color: #f1a581;
-  border-color: #e07b4d; }
-#buttons-block #jogar-online button:active {
-  background-color: #e07b4d;
-  padding: 20px 20px 19px !important; }
-#buttons-block .badge-img {
-  margin: 4% auto; }
-#buttons-block #mockup img {
-  height: 250px;
-  width: auto; }
+#buttons-block {
+  text-align: center; }
+  #buttons-block h2 {
+    margin: 0; }
+  #buttons-block #jogar-online button {
+    color: #fff;
+    background-color: #e07b4d;
+    border-color: #c05527;
+    padding: 20px; }
+  #buttons-block #jogar-online button:hover {
+    background-color: #f1a581;
+    border-color: #e07b4d; }
+  #buttons-block #jogar-online button:active {
+    background-color: #e07b4d;
+    padding: 20px 20px 19px !important; }
+  #buttons-block .badge-img {
+    margin: 4% auto; }
+
+@media only screen and (max-width: 1199px) {
+  .app-content-block {
+    text-align: center; } }
+@media only screen and (max-width: 1199px) {
+  .app-content-block--title {
+    min-height: 54px; } }
+@media only screen and (max-width: 991px) {
+  .app-content-block--title {
+    min-height: auto; } }
+.app-content-block img {
+  margin: 15px 0; }
+  @media only screen and (max-width: 991px) {
+    .app-content-block img {
+      width: 70%; } }
 
 /*# sourceMappingURL=style.css.map */
