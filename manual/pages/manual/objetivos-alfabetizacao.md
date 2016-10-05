@@ -6,7 +6,7 @@ permalink: objetivos-alfabetizacao.html
 folder: mydoc
 ---
 
-A proposta metodológica de Alfabetização, segundo a Base Nacional Comum Curricular (versão preliminar), está organizada em 3 grandes eixos.
+Os objetivos propostos para a aprendizagem da Língua Portuguesa nos anos iniciais do Ensino Fundamental, segundo o texto da Base Nacional Comum Curricular (BCNN) - 2ª. versão preliminar, do mês de abril de 2016 - estão organizados em 3 grandes eixos: leitura, escrita e oralidade/sinalização. Abaixo, eles aparecem destacados conforme encontramos na BCNN:
 
 ## Eixo Leitura
 
@@ -21,7 +21,7 @@ O tratamento das práticas leitoras compreende dimensões interligadas nas prát
 
 *  a ampliação do vocabulário, a partir da leitura de gêneros diversos e do contato com obras de referência (dicionários, por exemplo); 
 
-*  o desenvolvimento de habilidades e estratégias de leitura necessárias à compreensão de um conjunto variado de gêneros (antecipar sentidos, ativar conhecimentos prévios, localizar informações explícitas, elaborar inferências, apreender sentidos globais do texto, reconhecer tema, estabelecer relações de intertextualidade etc.).
+*  o desenvolvimento de habilidades e estratégias de leitura necessárias à compreensão de um conjunto variado de gêneros (antecipar sentidos, ativar conhecimentos prévios, localizar informações explícitas, elaborar inferências, apreender sentidos globais do texto, reconhecer tema, estabelecer relações de intertextualidade etc.) (MEC, 2016, p. 189).
 
 ## Eixo Escrita
 
@@ -36,11 +36,11 @@ O eixo da escrita compreende as práticas de linguagem relacionadas à interaç�
 
 *  o desenvolvimento de estratégias de planejamento, revisão, reescrita e avaliação de textos, considerando-se sua adequação aos contextos em que foram produzidos e o uso da variedade linguística apropriada a esse contexto; os enunciadores envolvidos, o gênero, o suporte, a esfera de circulação e a variedade linguística que se deva/queira acatar; 
 
-*  a utilização da reescrita como uma prática indispensável ao desenvolvimento da produção textual escrita; 
+*  a utilização da reescrita como uma prática indispensável ao desenvolvimento da produção textual escrita;
 
 *  a reflexão sobre os recursos linguísticos e multimodais empregados nos textos, considerando-se as convenções da escrita e as estratégias discursivas planejadas em função das finalidades pretendidas; 
 
-*  o desenvolvimento da autoria, como um conhecimento proveniente da reflexão sobre a própria experiência de produção de textos, em variados gêneros e em diversas situações de produção. 
+*  o desenvolvimento da autoria, como um conhecimento proveniente da reflexão sobre a própria experiência de produção de textos, em variados gêneros e em diversas situações de produção (MEC, 2016, p. 206-207).
 
 ## Eixo Oralidade / Sinalização
 
@@ -55,7 +55,4 @@ O tratamento das práticas orais compreende:
 
 *  a oralização do texto escrito, considerando-se as situações sociais em que tal tipo de atividade acontece e os aspectos envolvidos, como diferentes entonações de voz, movimentos do corpo, dentre outros; 
 
-*  as tradições orais e seus gêneros, considerando-se as práticas sociais em que tais textos surgem e se perpetuam, bem como os sentidos que geram. (...)
-
-
-**Fonte**: Texto da BASE NACIONAL COMUM CURRICULAR -  PROPOSTA PRELIMINAR SEGUNDA VERSÃO – MEC e CONSED. REVISTA em abril 2016
+*  as tradições orais e seus gêneros, considerando-se as práticas sociais em que tais textos surgem e se perpetuam, bem como os sentidos que geram (MEC, 2016, p. 218).

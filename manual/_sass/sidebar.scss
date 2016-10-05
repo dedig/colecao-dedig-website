@@ -1,0 +1,13 @@
+#mysidebar{
+    li.sidebarTitle{
+        color: $orange;
+    }
+    &.nav{     
+        >li.active>a{
+            background-color: $lightblue;                    
+        }        
+    }
+    a:hover{
+        background-color: $gray;
+    }
+}

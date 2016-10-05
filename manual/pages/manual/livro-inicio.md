@@ -11,10 +11,19 @@ folder: mydoc
 
 **Sugestões**:
 *  perguntar se a criança sabe que tipo de texto é a capa.
-*  mostrar o nome do livro.
+*  mostrar e ler o nome do livro.
 *  perguntar onde letras e onde há números.
 *  solicitar que mostre algumas letras: onde há o A, o C, etc.
-*  explorar as imagens: cores, formas, significados etc
+*  explorar as imagens: cores, formas, significados, etc
+
+### Exploração da página explicativa – “Como acessar nosso conteúdo digital”
+
+**Objetivo** – conhecer o livro e as formas de acesso aos conteúdos digitais.
+
+**Sugestão**:
+- perguntar se as crianças já viram o Passaporte Dedig e mostrá-lo;
+- perguntar para que o Passaporte Dedig serve, como usar, o que eles esperam que aconteça.
+- ler as demais instruções de uso.
 
 ### Exploração da página de apresentação dos personagens da Turma Dedig
 
@@ -35,7 +44,8 @@ folder: mydoc
 **Objetivo** – perceber as características do livro, dos contextos e dos módulos.
 
 **Sugestões**:
-*  mostrar a quantidade dos módulos.
-*  ler os nomes dos módulos.
-*  chamar a atenção para as imagens.
-*  localizar os personagens nas imagens.
+- mostrar a quantidade dos módulos.
+- ler os nomes dos módulos.
+- chamar a atenção para as imagens.
+- localizar os personagens nas imagens.
+- identificar correspondência entre ícones e módulos e numeração das páginas.

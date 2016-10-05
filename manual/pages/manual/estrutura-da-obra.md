@@ -15,7 +15,9 @@ Essas atividades têm como objetivos específicos:
 *  interpretar ideias de textos ouvidos ou lidos.
 *  escrever palavras, frases e pequenos textos
 
-No volume, foi utilizada a letra de fôrma maiúscula. Está comprovado que é o melhor tipo de letra, para a aprendizagem da escrita, pois é facilmente encontrada no meio ambiente. Além disso, são escritas “não emendadas”, como a letra cursiva, permitindo que o aprendiz consiga contar a quantidade de letras numa palavra e consequentemente, confrontar a diferença entre o número de letras e de sílabas. Ex: BALA – tem 4 letras e duas sílabas.
+No volume, foi utilizada a letra de fôrma maiúscula. Está comprovado que esse é o tipo de letra mais adequado à faixa etária, para a aprendizagem da escrita, pois são escritas “não emendadas”, como a letra cursiva, permitindo que o aprendiz consiga por exemplo, contar a quantidade de letras numa palavra e consequentemente, confrontar a diferença entre o número de letras e de sílabas, construindo a consciência fonológica.
+
+Exemplo: BALA – tem 4 letras e duas sílabas o que é uma importante competência para a alfabetização.
 
 ## Conteúdos Programáticos
 
