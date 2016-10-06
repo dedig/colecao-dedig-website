@@ -9,10 +9,13 @@ folder: mydoc
 
 **Objetivo** – inserir o contexto do módulo, ler o texto, comentar e identificar meios de comunicação.
 
+**Contexto**: Meios de Comunicação
+
 **Sugestões**:
 - ler, em voz alta, o texto, mostrando as palavras e a direcionalidade da escrita.
-- solicitar que a criança localize algumas palavras. Ex: CELULAR, DESENHO ANIMADO etc.
-- informar o significado das palavras desoconhecidas pela criança. Ex: E-MAIL, GOOGLE
+- solicitar que a criança localize algumas palavras. Exemplo: CELULAR, DESENHO ANIMADO etc.
+- verificar se a criança conhece o significado das palavras: Exemplo: GOOGLE, E-MAIL. 
+- informar o significado das palavras, caso a criança desconheça.  
 
 **Resposta**: pessoal.
 
@@ -23,7 +26,7 @@ folder: mydoc
 **Sugestões**:
 - conversar com a criança sobre os desenhos animados conhecidos por ela.
 - propor a escrita dos nomes dos personagens de desenhos animados.
--corrigir comparando a escrita da criança com a dos folhetos, jornais e revistas. 
+- corrigir comparando a escrita da criança com a dos folhetos, jornais e revistas. 
 - salientar que nas revistas e folhetos aparecem vários tipos de letras: de fôrma maiúscula, minúscula e cursiva.
 
 ### Página 62 e 63
@@ -32,14 +35,16 @@ folder: mydoc
 
 **Sugestões**:
 - observar as imagens e pedir que a criança diga o nome do objeto.
- - enfatizar as características dos objetos.
+- enfatizar as características dos objetos.
 - contar os quadrinhos correspondentes às letras da palavra.
 - responder às dúvidas que a criança tiver, durante a realização da atividade.
 - corrigir, escrevendo a palavra numa folha avulsa e pedir para comparar.
 
 **Resposta**: TELEFONE, JORNAL, RÁDIO, TELEVISÃO, COMPUTADOR. 
-                     A letra é A.
-                     São: B, G, H, K, Q, X, W, Y, Z.
+
+As letras que aparecem são: A, T, N, E.
+
+As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 
 ### Página 64
 
@@ -60,9 +65,9 @@ folder: mydoc
 
 **Sugestões**:
 - ler a palavra escrita na vertical e identificar as letras que formarão novas palavras.
-- Se houver dificuldade, solicitar que montem as palavras com letras do alfabeto móvel e que copiem após a correção. 
+- Se houver dificuldade, solicitar que a criança monte as palavras com letras do alfabeto móvel e que copiem após a correção. 
 
-**Resposta**: pessoais.
+**Resposta**: pessoal.
 
 ### Páginas 66 e 67
 
@@ -74,40 +79,38 @@ folder: mydoc
 - observar se a criança pronuncia a palavra e coloca as letras no quadradinho da sílaba.
 - corrigir, comparando o registro da criança, com a palavra escrita, na atividade.
 
-**Resposta**: COM-PU-TA-DOR; TE-LE-VI-SÃO; BI-LHE-TE; RE-VIS-TA; CAR-TA; RÁDIO.
+**Resposta**: COM-PU-TA-DOR; TE-LE-VI-SÃO; BI-LHE-TE; RE-VIS-TA; CAR-TA; RÁ-DIO.
 
 ### Páginas 68 e 69
 
 **Objetivo** – identificar o tipo de texto, ler e interpretar a função e as ideias presentes no texto.
 
 **Sugestões**:
-- ler em voz alta, um a uma, os texto apresentados, e comentar sobre o assunto e as características.
-- ler os enunciados das questões, pedir para que a criança responda oralmente, e depois, ajudar a registrar **as** Resposta. 
-**-** se houve dificuldades, escrever as Resposta em folha avulsa. 
+- ler em voz alta, um a um, os textos apresentados, e comentar sobre o assunto e as características.
+- ler os enunciados das questões, pedir para que a criança responda oralmente, e depois, ajudar a registrar as respostas. 
+- se houver dificuldades, escrever as respostas em folha avulsa. 
 - corrigir, pedindo para comparar com a escrita na folha avulsa.
 
 **Resposta**: TELEFONE ou CELULAR; TELEVISÃO; RÁDIO.
 
 ### Páginas 70 e 71
 
-**Objetivo** – reconhecerr o tipo de texto (história em quadrinhos), apreciar e ler as imagens, identificar e as falas e interpretar as ideias do assunto do texto.
+**Objetivo** – reconhecer o tipo de texto (história em quadrinhos), apreciar e ler as imagens, identificar as falas e interpretar as ideias do assunto do texto.
 
 **Sugestões**:
 - perguntar sobre o tipo do texto: onde ele é encontrado (gibis, revistas etc).
 - mostrar que o texto apresenta imagens e texto escrito.
 - conversar sobre a função dos balões que registram a fala dos personagens.
 - perguntar sobre os personagens, relacionando-os com a Turma Dedig.
-**-** ler a questão de interpretação e observa o preenchimento da resposta.
+- ler a questão de interpretação e observar o preenchimento da resposta.
 
-**Resposta**: OS AMIGOS DO ARTUR NÃO JOGARAM PORQUE
-FICARAM SEM INTERNET
+**Resposta**: OS AMIGOS DO ARTUR NÃO JOGARAM PORQUE FICARAM SEM INTERNET
 
-```
-Desafio digital
-Objetivo do objeto digital – ler, interpretar e inferir ideias presentes no texto e nas imagens. Relacionar o desfecho (final) da história em quadrinhos ao contexto (assunto) do texto lido.
-Conteúdo – Leitura de texto verbal (escrita) e extra-verbal (imagem).
-Proposta – Apreciar o desfecho (final) da história em quadrinhos e relacionar  ao contexto (assunto) do texto lido.
-```
+{% include desafio-digital.html
+    title="Missão Improvável"
+    content="ler, interpretar e inferir ideias presentes no texto e nas imagens. Relacionar o desfecho (final) da história em quadrinhos ao contexto (assunto) do texto lido. Conteúdo – Leitura de texto verbal (escrita) e extraverbal (imagem)."
+    purpose="Apreciar o desfecho (final) da história em quadrinhos e relacionar ao contexto (assunto) do texto lido."
+%}
 
 ### Página 72
 
@@ -116,11 +119,11 @@ Proposta – Apreciar o desfecho (final) da história em quadrinhos e relacionar
 **Sugestões**:
 - ler o enunciado, salientando as informações sobre “carta” e envelope”.
 - localizar as informações necessárias para envio da carta e envelope.
-- observar se a criança identifica o nome da pessoa, nome da rua, e nome da cidade. 
+- observar se a criança identifica o nome da pessoa, nome da rua, e nome da cidade.
 
-**Resposta**: nome da pessoa: MARIA APARECIDA DE OLIVEIRA 
-                  Nome da rua - AVENIDA CENTRAL, 853
-                  Nome da cidade - RIBEIRÃO - MT
+**Resposta**: nome da pessoa: DIMI EIKE
+                  Nome da rua - RUA PEIXOTO GOMIDE, 21
+                  Nome da cidade - SÃO PAULO - SP
 
 ### Página 73
 
@@ -128,7 +131,7 @@ Proposta – Apreciar o desfecho (final) da história em quadrinhos e relacionar
 
 **Sugestões**:
 - ler o enunciado.
-- propor fazer uma rascunho, numa folha avulsa: escrever os dados do destinatário e do remetente.
+- propor fazer um rascunho, numa folha avulsa: escrever os dados do destinatário e do remetente.
 - corrigir o que for necessário.
 - solicitar que a criança preencha no livro as informações corretas.
 
@@ -146,11 +149,11 @@ Proposta – Apreciar o desfecho (final) da história em quadrinhos e relacionar
 
 **Resposta** – pessoal.
 
-```
-Desafio digital - A escritora
-Conteúdo – Organização de frases.
-Proposta – Ler as palavras e organizá-las formando uma frase.
-```
+{% include desafio-digital.html
+    title="A Escritora"
+    content="Organização de frases."
+    purpose="Ler as palavras e organizá-las formando uma frase."
+%}
 
 ### Páginas 75 a 80
 

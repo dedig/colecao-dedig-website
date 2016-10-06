@@ -22,14 +22,25 @@ Exemplo: BALA – tem 4 letras e duas sílabas o que é uma importante competên
 ## Conteúdos Programáticos
 
 1 – Reconhecimento de letras do alfabeto
+
 2 – Vogais e consoantes
+
 3 - Ordem alfabética
+
 4 - Correspondência entre letras, numa palavra
+
 5 – Reconhecimento dos valores sonoros convencionais
+
 6 – Quantidade de letras numa palavra
+
 7 – Diferença entre letra, palavra, frase e texto
+
 8 – Reconstrução do código linguístico
+
 9 – Apropriação da base alfabética da escrita
+
 10 –Interpretação de frases e pequenos textos diversificados
+
 11 – Palavras que apresentam “Vogal + L”  (al, el, il, ol, ul)
+
 12 – Palavras que apresentam “Consoante + R” ( br, cr, fr, gr, pr)
