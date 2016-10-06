@@ -20,6 +20,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="Gosto Especial"
+    ss="gostoEspecial.png"
     content="Audição, leitura e interpretação de poema, música e animação. Contexto: Alimentação saudável – frutas"
     purpose="ouvir a música, assistir à animação, acompanhar a letra da música no livro."
 %}
@@ -82,6 +83,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="Missão Improvável"
+    ss="por007ativ.png"
     content="Código linguístico"
     purpose="escolher as letras que compõem aas palavras e organizá-las na ordem correta."
 %}

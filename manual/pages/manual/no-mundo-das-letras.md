@@ -27,6 +27,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="Caçador de tumbas"
+    ss="por004ativ.png"
     content="Letras do alfabeto"
     purpose="observar as letras e escolher a que  está na sequência de acordo com o alfabeto."
 %}
@@ -117,6 +118,7 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 
 {% include desafio-digital.html
     title="Caçador de tumbas"
+    ss="por004sond.png"
     content="Ordem alfabética"
     purpose="escolher a letra que deve vir em seguida àquela que aparece no desafio."
 %}

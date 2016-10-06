@@ -107,7 +107,8 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 **Resposta**: OS AMIGOS DO ARTUR NÃO JOGARAM PORQUE FICARAM SEM INTERNET
 
 {% include desafio-digital.html
-    title="Missão Improvável"
+    title="Quadrinho"
+    ss="quadrinho.png"
     content="ler, interpretar e inferir ideias presentes no texto e nas imagens. Relacionar o desfecho (final) da história em quadrinhos ao contexto (assunto) do texto lido. Conteúdo – Leitura de texto verbal (escrita) e extraverbal (imagem)."
     purpose="Apreciar o desfecho (final) da história em quadrinhos e relacionar ao contexto (assunto) do texto lido."
 %}
@@ -151,6 +152,7 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 
 {% include desafio-digital.html
     title="A Escritora"
+    ss="por014aval.png"
     content="Organização de frases."
     purpose="Ler as palavras e organizá-las formando uma frase."
 %}

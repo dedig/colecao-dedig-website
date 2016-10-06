@@ -16,6 +16,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="O aniversário do Leão"
+    ss="aniversarioLeao.png"
     content="Audição, leitura e interpretação de poema, música e animação."
     purpose="ouvir a música, assistir à animação, acompanhar a letra da música no livro."
 %}
@@ -48,6 +49,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="Toca dos Ratos"
+    ss="por006sond.png"
     content="Relação Fonema e grafema"
     purpose="escolher a letra inicial do nome do objeto."
 %}
@@ -65,6 +67,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="Toca dos Ratos"
+    ss="por006ativ.png"
     content="Valor sonoro convencional (as letras nas palavras)"
     purpose="observar o objeto e clicar em cima da letra que inicia a palavra."
 %}

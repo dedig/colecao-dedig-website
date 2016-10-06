@@ -31,6 +31,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="Trem Enguiçado"
+    ss="por001sondd.png"
     content="Ortografia: palavras que apesentam BR, CR, DR, FR, GR, PR e TR"
     purpose="observar a lacuna da palavra e escolher as letras que a completam."
 %}
@@ -101,6 +102,7 @@ folder: mydoc
 
 {% include desafio-digital.html
     title="Trânsito"
+    ss="trans001ativ.png"
     content="Placas"
     purpose="faça o carro seguir na direção que a placa indica."
 %}
@@ -121,6 +123,7 @@ folder: mydoc
                             
 {% include desafio-digital.html
     title="Trem Enguiçado"
+    ss="por001sondb.png"
     content="Ortografia: palavras que apresentam vogal mais L (AL, EL, IL, OL, UL)."
     purpose="identificar as sílabas que completam corretamente as palavras e formar a imagem mental ortográfica das palavras."
 %}
