@@ -9,6 +9,8 @@ folder: mydoc
 
 **Objetivo** – inserir a criança no contexto do módulo; desenvolver a atenção e concentração de detalhes da imagem; ler as informações e interpretá-las adequadamente.
 
+**Contexto**: Meios de Transporte
+
 **Sugestões**:
 - comentar sobre os detalhes da ilustração: tipos de transporte, características da cidade, existência de semáforos, faixa de pedestre, etc.
 - ler as informações e relacioná-las com a imagem.
@@ -22,15 +24,17 @@ folder: mydoc
 **Sugestões**:
 - ler o enunciado das questões.
 - perguntar sobre as letras.
-- permitir tentativas de organização das palavras e corrigir, por meio de comparação (escrever a palavra numa folha avulsa e  pedir para conferir com a sua produção).
+- permitir tentativas de organização das palavras e corrigir, por meio de comparação (escrever a palavra numa folha avulsa e pedir para conferir com a sua produção).
 
 **Resposta**: 1 – CARRO, TREM
                     2 – NAVIO, BARCO
-```
-Desafio digital -  Trem enguiçado
-Conteúdo – Ortografia: palavras que apesentam BR, CR, DR, FR, GR, PR e TR
-Proposta – observar a lacuna da palavra e escolher as letras que a completam.
-```
+
+{% include desafio-digital.html
+    title="Trem Enguiçado"
+    ss="por001sondd.png"
+    content="Ortografia: palavras que apesentam BR, CR, DR, FR, GR, PR e TR"
+    purpose="observar a lacuna da palavra e escolher as letras que a completam."
+%}
 
 ### Página 39
 
@@ -59,9 +63,9 @@ Proposta – observar a lacuna da palavra e escolher as letras que a completam.
 **Objetivo** – desenvolver a atenção, concentração e associação entre símbolo e grafema.
 
 **Sugestões**:
-- pedir para ac riança observar com atenção os símbolos que representam o alfabeto.
+- pedir para a criança observar com atenção os símbolos que representam o alfabeto.
 - acompanhar a associação entre símbolo e letra, corrigindo se for necessário.
-- ler a mensagem final, em voz aalta.
+- ler a mensagem final, em voz alta.
 
 **Resposta**: PAULO VAI PARA A ESCOLA DE ÔNIBUS.
 
@@ -83,7 +87,7 @@ Proposta – observar a lacuna da palavra e escolher as letras que a completam.
 - permitir que ela comente sobre as características.
 - explicar o significado de porto, aeroporto, rodoviária, estação de trem etc.
 
-**Resposta**: ESTAÇÃO DE METRÔ, PORTO, RODOVIÁRIA, ESTAÇÃO DE TREM, AEROPORTO.
+**Resposta**: PORTO, RODOVIÁRIA, ESTAÇÃO DE TREM, AEROPORTO, HELIPORTO, CICLOVIA.
 
 ### Página 46
 
@@ -96,11 +100,12 @@ Proposta – observar a lacuna da palavra e escolher as letras que a completam.
 
 **Resposta**: VELOCIDADE MÁXIMA, PROIBIDO BUZINAR, SENTIDO OBRIGATÓRIO À ESQUERDA, PARAR, PASSAGEM DE PEDESTRES.
 
-```
-Desafio digital - Trânsito
-Conteúdo – Placas de trânsito
-Proposta – faça o carro seguir na direção que a placa indica.
-```
+{% include desafio-digital.html
+    title="Trânsito"
+    ss="trans001ativ.png"
+    content="Placas"
+    purpose="faça o carro seguir na direção que a placa indica."
+%}
 
 ### Página 47
 
@@ -110,16 +115,15 @@ Proposta – faça o carro seguir na direção que a placa indica.
 - ler o poema, decorar e declamar.
 - se o educador conhecer a música, pode cantar e ensinar para a criança.
 - ler os enunciados das questões de interpretação.
-- ajudar a escrever as Resposta.
-- corrigir as Resposta, escrevendo o correto numa folha avulsa e pedir para a criança comparar.
+- ajudar a escrever as respostas.
+- corrigir as respostas, escrevendo o correto numa folha avulsa e pedir para a criança comparar.
 
 **Resposta**:  Questões 1  e 2 - responder no texto .
-                     Questão 3 – Parte de Pernambuco e vai para o Ceará.    
+                     Questão 3 – Parte de PERNAMBUCO e vai para o CEARÁ.   
                             
-
-```
-Desafio digital -  Trem enguiçado
-Objetivo do objeto digital - identifsicar as sílabas que completam corretamente as palavras e formar a imagem mental ortográfica das palavras.
-Conteúdo – Ortografia: palavras que apresentam vogal mais L (AL, EL, IL, OL, UL).
-Proposta – complete as palavras com a sílaba correta.
-``
+{% include desafio-digital.html
+    title="Trem Enguiçado"
+    ss="por001sondb.png"
+    content="Ortografia: palavras que apresentam vogal mais L (AL, EL, IL, OL, UL)."
+    purpose="identificar as sílabas que completam corretamente as palavras e formar a imagem mental ortográfica das palavras."
+%}

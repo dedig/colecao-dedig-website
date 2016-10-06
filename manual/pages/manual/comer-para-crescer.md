@@ -9,6 +9,8 @@ folder: mydoc
 
 **Objetivo** – introduzir o contexto do módulo, ler texto impresso, apreciar o poema e a música e interpretar ideias do texto.
 
+**Contexto**: Alimentos 
+
 **Sugestões**:
 - explicar o sentido da palavra GOSTO no título.
 - ler o texto impresso, observando as palavras e as rimas.
@@ -16,11 +18,12 @@ folder: mydoc
 - identificar as frutas e os nomes de pessoas que aparecem no poema.
 - conversar sobre a importância da alimentação saudável.
 
-```
-Desafio digital  - Gosto especial
-Conteúdo – Audição, leitura e interpretação de poema, música e animação. Contexto: Alimentação saudável – frutas
-Proposta – ouvir a música, assistir à animação, acompanhar a letra da música no livro.
-```
+{% include desafio-digital.html
+    title="Gosto Especial"
+    ss="gostoEspecial.png"
+    content="Audição, leitura e interpretação de poema, música e animação. Contexto: Alimentação saudável – frutas"
+    purpose="ouvir a música, assistir à animação, acompanhar a letra da música no livro."
+%}
 
 ### Página 49
 
@@ -28,7 +31,7 @@ Proposta – ouvir a música, assistir à animação, acompanhar a letra da mús
 
 **Sugestões**:
 - ler os enunciados e permitir que a criança descubra o nome da fruta.
-- chamar a atenção para as letras iniciai e finais citadas nos enunciados.
+- chamar a atenção para as letras iniciais e finais citadas nos enunciados.
 - enfatizar as características das frutas.
 - contar os quadrinhos correspondentes às letras da palavra.
 - responder às dúvidas que a criança tiver, durante a realização da atividade.
@@ -40,7 +43,7 @@ Proposta – ouvir a música, assistir à animação, acompanhar a letra da mús
 
 **Sugestões**: 
 - solicitar que a criança leia a lista de palavras abaixo do quadro, observando a letra inicial, final e a quantidade de letras nas palavras.
-- permitir que a criança localize as palavras, utilizando as pistas das letra iniciais e finais.
+- permitir que a criança localize as palavras, utilizando as pistas das letras iniciais e finais.
 - conferir se foram encontradas todas as palavras.
 
 **Resposta**: HORIZONTAIS – CAJU, JABUTICABA, COCO, UVA, MAÇÃ.
@@ -48,7 +51,7 @@ Proposta – ouvir a música, assistir à animação, acompanhar a letra da mús
 
 ### Página 51
 
-**Objetivo** – identificar valore sonoros convencionais.
+**Objetivo** – identificar valores sonoros convencionais.
 
 **Sugestões**:
 - ler as palavras assinaladas no quadro da página anterior.
@@ -58,11 +61,11 @@ Proposta – ouvir a música, assistir à animação, acompanhar a letra da mús
 
 ### Página 52
 
-**Objetivo** – ler enunciados e escrever palavras de acordo com o contexto.
+**Objetivo** –  ler enunciados e escrever palavras de acordo com o contexto.
 
 **Sugestões**:
 - ler os enunciados, mostrando as palavras e a direcionalidade da escrita.
-**-** se a criança mostrar dificuldade para escrever a resposta, ajude-a a montar a palavra, usando as letras do alfabeto móvel.
+- se a criança mostrar dificuldade para escrever a resposta, ajude-a a montar a palavra, usando as letras do alfabeto móvel.
 - após a escrita, pedir para observar as letras finais das palavras, identificando as semelhanças.
 
 **Resposta**: COQUEIRO, LIMOEIRO, BANANEIRA, LARANJEIRA.
@@ -76,13 +79,14 @@ Proposta – ouvir a música, assistir à animação, acompanhar a letra da mús
 - ajudar na montagem e escrita das palavras.
 - corrigir, verificando se a palavra apresenta a letra solicitada, de acordo com o enunciado.
 
-**Resposta**: pessoal. Possibilidades: JACARÉ, AMANDA, SÃO PEDRO, MESA
+**Resposta**: pessoal. Possibilidades: JACARÉ, AMANDA, SÃO PEDRO, MESA, JAVALI, ALICE, OSASCO, TESOURA.
 
-```
-Desafio digital - Missão improvável
-Conteúdo – Código linguístico
-Proposta – escolher as letras que compõem aas palavras e organizá-las na ordem correta.
-```
+{% include desafio-digital.html
+    title="Missão Improvável"
+    ss="por007ativ.png"
+    content="Código linguístico"
+    purpose="escolher as letras que compõem aas palavras e organizá-las na ordem correta."
+%}
 
 ### Páginas 54 e 55
 
@@ -107,7 +111,7 @@ Proposta – escolher as letras que compõem aas palavras e organizá-las na ord
 - acompanhar a escolha das palavras que rimam com “pera, mamão e abacaxi”.
 - ajudar a escrever as palavras rimadas, chamando a atenção para as letras finais iguais.
 
-**Resposta**: pessoal. Possibilidades: CERA, MELÃO, XIXI.
+**Resposta**: pessoal. Possibilidades: CERA, FEIRA, MELÃO, JOÃO,  XIXI, QUATI.
 
 ### Página 57
 
@@ -115,7 +119,7 @@ Proposta – escolher as letras que compõem aas palavras e organizá-las na ord
 
 **Sugestões**:
 - falar em voz alta, o nome dos objetos que aparecem nas imagens.
-- pedir que q criança escolha o objeto correto.
+- pedir que a criança escolha o objeto correto.
 
 **Resposta**: UVA, MAÇÃ, BANANA, PÃO.
 
@@ -134,15 +138,14 @@ Proposta – escolher as letras que compõem aas palavras e organizá-las na ord
 **Objetivo** – ler e interpretar o significado de palavras e expressões.
 
 **Sugestões**:
-- ler todas as palavras, comentando as categorias a que pertencem. Ex: refrigerante pertence à categoria BEBIDAS.
+- ler todas as palavras, comentando as categorias a que pertencem. Exemplo: refrigerante pertence à categoria BEBIDAS.
 - propor a organização, oralmente, antes de fazer no livro.
 
 **Resposta**: 
-
 Frutas, verduras e legumes: ABACAXI, BATATA, TOMATE, ALFACE, MORANGO, CENOURA.
 
 Bebidas: REFRIGERANTE, CHÁ, SUCO, ÁGUA, LEITE.
 
-Carnes: LINGUIÇA, HAMBÚRGUER, FRANGO, SALSICHA.
+Carnes: PEIXE, LINGUIÇA, HAMBÚRGUER, FRANGO, SALSICHA.
 
-Limpeza: SABÃO, RODO, DETEGENTE, VASSOURA.
+Limpeza: SABÃO, RODO, DETERGENTE, VASSOURA.

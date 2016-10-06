@@ -14,11 +14,12 @@ folder: mydoc
 - conversar sobre o assunto do texto.
 - relacionar os animais que aparecem no texto.
 
-```
-Desafio digital -  O aniversário do leão
-Conteúdo – Audição, leitura e interpretação de poema, música e animação. Contexto: animais.
-Proposta – ouvir a música, assistir à animação, acompanhar a letra da música no livro.
-```
+{% include desafio-digital.html
+    title="O aniversário do Leão"
+    ss="aniversarioLeao.png"
+    content="Audição, leitura e interpretação de poema, música e animação."
+    purpose="ouvir a música, assistir à animação, acompanhar a letra da música no livro."
+%}
 
 ### Páginas 26 e 27
 
@@ -37,20 +38,21 @@ Proposta – ouvir a música, assistir à animação, acompanhar a letra da mús
 **Sugestões**:
 - ler todas as palavras, devagar, mostrando com os dedos, onde está lendo.
 - solicitar que a criança grife a palavra que indica nome de animais.
-- para copiar, a criança deve usar lera e fôrma maiúscula.
+- para copiar, a criança deve usar letra de fôrma maiúscula.
 
 ### Página 29
 
 **Objetivo** - conhecer as letras, observar a semelhança entre os fonemas, e fazer a correspondência entre fonema e grafema das palavras.
 
-Sugestão
+**Sugestão**:
 - ler as palavras, vagarosamente, para que haja a percepção dos diferentes fonemas.
 
-```
-Desafio digital - Toca dos ratos
-Conteúdo – Relação Fonema e grafema
-Proposta – escolher a letra inicial do nome do objeto.
-```
+{% include desafio-digital.html
+    title="Toca dos Ratos"
+    ss="por006sond.png"
+    content="Relação Fonema e grafema"
+    purpose="escolher a letra inicial do nome do objeto."
+%}
 
 ### Página 30 
 
@@ -63,11 +65,12 @@ Proposta – escolher a letra inicial do nome do objeto.
 - informar que devem ser observadas a primeira e última letra das palavras.
 - informar que na listagem, há palavras parecidas e que há necessidade de atenção e de contagem do número de letras.
 
-```
-Desafio digital - Toca dos ratos
-Conteúdo – Valor sonoro convencional (as letras nas palavras)
-Proposta – observar o objeto e clicar em cima da letra que inicia a palavra.
-```
+{% include desafio-digital.html
+    title="Toca dos Ratos"
+    ss="por006ativ.png"
+    content="Valor sonoro convencional (as letras nas palavras)"
+    purpose="observar o objeto e clicar em cima da letra que inicia a palavra."
+%}
 
 ### Página 31
 
@@ -75,19 +78,19 @@ Proposta – observar o objeto e clicar em cima da letra que inicia a palavra.
 
 **Sugestões**:
 - ler as quadrinhas, mostrando as palavras e a direcionalidade da escrita.
-**-** se a criança mostrar dificuldade para escrever a resposta que completa a quadrinha, ajude-a a montar a palavra, usando as letras do alfabeto móvel.
+- se a criança mostrar dificuldade para escrever a resposta que completa a quadrinha, ajude-a a montar a palavra, usando as letras do alfabeto móvel.
 
 **Resposta**: COELHO, GATO, RATO, CACHORRO.
 
 ### Página 32
 
-**Objetivo** – apreciar a ilustração, ler a mensagem presente na imagem e inferir  o significado; escrever palavras dentro do contexto da imagem.
+**Objetivo** – apreciar a ilustração, ler a mensagem presente na imagem e inferir o significado; escrever palavras dentro do contexto da imagem.
 
 **Sugestões**:
-- comentar a ilustração, perguntando quem são os personagens e o ambiente em que eles estão.
+- comentar a ilustração, perguntando quem é o personagem e o ambiente em que ele está.
 - ler a fala do balão (do coelho) e verificar se a criança compreendeu o significado.
-**-** acompanhar o preenchimento da resposta.
-- incentivar a escolha de nomes para os personagens e ajudar aa escrever, se for necessário.
+- acompanhar o preenchimento da resposta.
+- incentivar a escolha de nomes para o personagem e ajudar a escrever, se for necessário.
 
 **Resposta**: pessoal.
 
@@ -99,7 +102,7 @@ Proposta – observar o objeto e clicar em cima da letra que inicia a palavra.
 - permitir que a criança monte as palavras, de acordo com o seu conhecimento linguístico.
 - corrigir, escrevendo a palavra correta numa folha avulsa e pedir para que faça a comparação das letras utilizadas e da ordem delas nas palavras.
 
-**Resposta**: GATO, COELHO,RATO, CACHORRO.
+**Resposta**: GATO, COELHO, RATO, CACHORRO.
 
 ### Páginas 34 e 35
 

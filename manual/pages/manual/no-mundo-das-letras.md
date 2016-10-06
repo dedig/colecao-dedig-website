@@ -8,30 +8,29 @@ folder: mydoc
 
 ### Páginas 8 e 9  
 
-**Objetivo** - inserir a criança no contexto (assunto) do módulo.
+**Objetivo** - inserir a criança no contexto (assunto) do módulo 1.
 
 **Sugestões**:
-*  ler o texto, em voz alta, mostrando as palavras e frases.
-*  ler, mostrando a direcionalidade da escrita (passar o dedo, embaixo das frases, da esquerda para a direita).
+- ler o texto, em voz alta, mostrando as palavras e frases.
+- ler, mostrando a direcionalidade da escrita (passar o dedo, embaixo das frases, da esquerda para a direita).
 
 ### Página 10
 
 **Objetivo** – conhecer com as letras do alfabeto.
 
 **Sugestões**:
-*  pedir que a criança fale as letras, em sequência.
-*  localizar algumas letras solicitadas.
-*  observar o som e as letras.
+- pedir que a criança fale as letras, em sequência.
+- localizar algumas letras solicitadas.
+- observar o som e as letras.
 
-**Resposta**:
-**As** Resposta são pessoais, de acordo com o nome da criança e da escola.
+**Resposta**: As respostas são pessoais, de acordo com o nome da criança e da escola.
 
-```
-Desafio digital - Caçador de tumbas
-
-Conteúdo pedagógico – Letras do alfabeto
-Proposta – observar as letras e escolher a que vem em seguida, no alfabeto.
-```
+{% include desafio-digital.html
+    title="Caçador de tumbas"
+    ss="por004ativ.png"
+    content="Letras do alfabeto"
+    purpose="observar as letras e escolher a que  está na sequência de acordo com o alfabeto."
+%}
 
 
 ### Página 11
@@ -39,8 +38,8 @@ Proposta – observar as letras e escolher a que vem em seguida, no alfabeto.
 **Objetivo** – identificar as vogais e consoantes do alfabeto
 
 **Sugestões**:
-*  ler as letras, diferenciando as vogais e consoantes.
-*  recortar as letras do final do livro, solicitar que a criança nomeie as letras e escreva palavras ou nomes de pessoas conhecidas.
+- ler as letras, diferenciando as vogais e consoantes.
+- recortar as letras do final do livro, solicitar que a criança nomeie as letras e escreva palavras ou nomes de pessoas conhecidas.
 
 ### Página 12
 
@@ -53,7 +52,7 @@ Proposta – observar as letras e escolher a que vem em seguida, no alfabeto.
 escrever a palavra corretamente e pedir para a criança comparar com a que montou com as letra do alfabeto móvel.
 - a criança pode escolher algumas palavras para copiar.
 
-**Resposta**: BANANA, CAETA, MESA, CADERNO, TELEFONE, ABACAXI .
+**Resposta**: BANANA, CANETA, MESA, CADERNO, TELEFONE, ABACAXI.
 
 ### Página 13
 
@@ -76,7 +75,7 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 **Objetivo** – ler e escrever palavras, relacionadas a imagens e símbolos.
 
 **Sugestões**:
-- verificar se a criança consegue ler a frase com as imagens. Se não souber, leia me voz alta, deixando a criança perceber a substituição da imagem pela palavra. (ex: bola).
+- verificar se a criança consegue ler a frase com as imagens. Se não souber, leia em voz alta, deixando a criança perceber a substituição da imagem pela palavra. (Exemplo: bola).
 - deixar a criança preencher os quadrinhos, pois é importante que ela escolha as letras e coloque-as no lugar correto.  Aqui, a criança enfrentará o desafio de perceber as letras que formam as sílabas das palavras. Se houver dificuldades, escreva as palavras numa folha avulsa e permita que ela decida em qual quadrinho deverá escrever.
 
 ### Página 16
@@ -87,7 +86,7 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 - peça para a criança dizer as letras que estão no quadro.
 - ajude-a a combinar as letras para formar palavras. 
 
-**Resposta possível**: LUTA, TORA, RATO, TALO, PORTA etc
+**Respostas possíveis**: LUTA, TORA, RATO, TALO, PORTA, RUA, LUPA, TOPA, PRATO, TORTA etc.
 
 ### Página 17
 
@@ -104,8 +103,8 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 **Objetivo** – ler e escrever palavras, observando a relação entre fonema e grafema e ordem das letras na palavra.
 
 **Sugestões**:
-- ler, junto com a criança, as palavras citadas.
-- ajudar a achar o quadrinho correspondente à palavra.
+- ler, junto com a criança, as palavras listadas.
+- ajudar a achar no banco, a palavra correspondente, perguntando o que é a figura e onde estará a palavra.
 - chamar atenção para a letra inicial e para a quantidade de letras numa palavra.
 
 
@@ -117,11 +116,12 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 - oralmente, falar ou “cantar” a sequência das letras do alfabeto.
 - acompanhar a fala, observando os espaços que devem ser preenchidos.
 
-```
-Desafio digital - Caçador de tumbas
-Conteúdo pedagógico – Ordem alfabética
-Proposta – escolher a letra que deve vir em seguida àquela que aparece no desafio. 
-```
+{% include desafio-digital.html
+    title="Caçador de tumbas"
+    ss="por004sond.png"
+    content="Ordem alfabética"
+    purpose="escolher a letra que deve vir em seguida àquela que aparece no desafio."
+%}
 
 ### Páginas 20 e 21
 
@@ -134,24 +134,24 @@ Proposta – escolher a letra que deve vir em seguida àquela que aparece no des
 - se houver dificuldade, montar as palavras, utilizando o alfabeto móvel e depois escrever no espaço indicado.
 - se a criança escrever errado, escreva a palavra correta numa folha avulsa e peça para ela observar o que está diferente.
 
-**Resposta**: GARFO COLHER, XÍCARA, PANELA, PRATO, FACA.
+**Resposta**: GARFO, COLHER, XÍCARA, PANELA, PRATO, FACA.
 
 ### Página 22
-
 
 **Objetivo** – identificar letras de uma palavra, observando a ordem em que elas aparecem, bem como a montagem e remontagem das partes das palavras. 
 
 **Sugestões**: 
 - ler todas as palavras ligadas ao nome VERALICE
-- ajudar os alunos a encontrar palavras com significado, observando letras que compõe, no nome CLODOMIRO.
+- ajudar os alunos a encontrar palavras com significado, observando letras que compõe, no nome APARECIDA
 - É importante corrigir as palavras apresentadas pela criança.
 
-**Resposta**: CLODO, MIRO, DOM, CLO, IR.
+**Resposta**: APARECI, PARECIDA, PARE, CIDA, IDA.
 
 ### Página 23
 
 **Objetivo** – interpretar pequeno texto, relacionando significado da imagem com as palavras e frases.
 
 **Sugestões**: 
-- voltar à página de apresentação da Turma Dedig e ler as características dos personagens.
-permitir que os alunos identifiquem os personagens, a partir das dicas.
+- ler as características dos personagens.
+- chamar atenção para as figuras que representam os personagens.
+- permitir que os alunos identifiquem os personagens, a partir das dicas.
