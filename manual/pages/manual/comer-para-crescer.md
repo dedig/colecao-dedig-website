@@ -111,7 +111,7 @@ folder: mydoc
 - acompanhar a escolha das palavras que rimam com “pera, mamão e abacaxi”.
 - ajudar a escrever as palavras rimadas, chamando a atenção para as letras finais iguais.
 
-**Resposta**: pessoal. Possibilidades: CERA, FEIRA, MELÃO, JOÃO,  XIXI, QUATI.
+**Resposta**: pessoal. Possibilidades: CERA, FEIRA, MELÃO, JOÃO, XIXI, QUATI.
 
 ### Página 57
 
