@@ -109,7 +109,8 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 {% include desafio-digital.html
     title="Quadrinho"
     ss="quadrinho.png"
-    content="ler, interpretar e inferir ideias presentes no texto e nas imagens. Relacionar o desfecho (final) da história em quadrinhos ao contexto (assunto) do texto lido. Conteúdo – Leitura de texto verbal (escrita) e extraverbal (imagem)."
+    objective="ler, interpretar e inferir ideias presentes no texto e nas imagens. Relacionar o desfecho (final) da história em quadrinhos ao contexto (assunto) do texto lido."
+    content="Leitura de texto verbal (escrita) e multimodal(imagem)."
     purpose="Apreciar o desfecho (final) da história em quadrinhos e relacionar ao contexto (assunto) do texto lido."
 %}
 
@@ -140,7 +141,7 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 
 ### Página 74
 
-**Objetivo** – reconhecer a função e as características do e-mail, como meio de comunicação. Ler e compreender as palavras, a fim de produzir frases com significado.
+**Objetivo** – reconhecer a função e as características do e-mail, como meio de comunicação. Ler e compreender as frases, a fim de construir textos, com significado.
 
 **Sugestões**:
 - ler as informações sobre o texto “e-mail”.
@@ -153,8 +154,8 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 {% include desafio-digital.html
     title="A Escritora"
     ss="por014aval.png"
-    content="Organização de frases."
-    purpose="Ler as palavras e organizá-las formando uma frase."
+    content="Organização de textos."
+    purpose="Ler as palavras e organizá-las formando um texto."
 %}
 
 ### Páginas 75 a 80

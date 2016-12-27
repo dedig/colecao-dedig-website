@@ -29,7 +29,7 @@ folder: mydoc
     title="Caçador de tumbas"
     ss="por004ativ.png"
     content="Letras do alfabeto"
-    purpose="observar as letras e escolher a que  está na sequência de acordo com o alfabeto."
+    purpose="observar as letras e escolher a que é consoante."
 %}
 
 
@@ -56,19 +56,19 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 
 ### Página 13
 
-**Objetivo**: identificar a relação entre fonema e grafema, na organização de uma palavra.
-
-**Sugestões**:
-- pedir para a criança ler todas as letras do quadro.
-- ler, em voz alta, os enunciados, um a um; pedir para que a criança encontre a letra solicitada e pinte-a no quadro.
-
-### Página 14
-
-**Objetivo** – ler e escrever nome e sobrenome.
+**Objetivo**: ler e escrever nome e sobrenome.
 
 **Sugestões**:
 - verificar se a criança sabe escrever o nome e sobrenome. Se não souber, escreva para ela numa folha avulsa e peça para observar as letras e copiar no espaço a atividade.
 - fazer o mesmo procedimento na proposta de escrever nome de colega e pessoa da família.
+
+### Página 14
+
+**Objetivo** – identificar a relação entre fonema e grafema, na organização de uma palavra.
+
+**Sugestões**:
+- pedir para a criança ler todas as letras do quadro.
+- ler, em voz alta, os enunciados, um a um; pedir para que a criança encontre a letra solicitada e pinte-a no quadro.
 
 ### Página 15
 

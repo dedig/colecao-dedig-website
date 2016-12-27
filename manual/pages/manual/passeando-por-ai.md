@@ -91,7 +91,7 @@ folder: mydoc
 
 ### Página 46
 
-**Objetivo** - reconhecer a importância de identificar o significado das placas de trânsito como textos, com imagens.
+**Objetivo** - reconhecer a importância de identificar o significado das placas de trânsito como textos.
 
 **Sugestões**:
 - verificar o que a criança conhece sobre o assunto.
@@ -104,7 +104,7 @@ folder: mydoc
     title="Trânsito"
     ss="trans001ativ.png"
     content="Placas"
-    purpose="faça o carro seguir na direção que a placa indica."
+    purpose="fazer o carro seguir na direção que a placa indica."
 %}
 
 ### Página 47
@@ -124,6 +124,7 @@ folder: mydoc
 {% include desafio-digital.html
     title="Trem Enguiçado"
     ss="por001sondb.png"
+    objective="identificar as letras que completam corretamente as palavras e formar a imagem mental ortográfica das palavras."
     content="Ortografia: palavras que apresentam vogal mais L (AL, EL, IL, OL, UL)."
-    purpose="identificar as sílabas que completam corretamente as palavras e formar a imagem mental ortográfica das palavras."
+    purpose="complete as palavras com as letras corretas."
 %}
