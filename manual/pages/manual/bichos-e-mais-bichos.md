@@ -31,6 +31,8 @@ folder: mydoc
 - se houver dificuldade, leia os nomes para a criança.
 - aproveitar a atividade para questionar sobre a letra inicial dos nomes dos animais, permitindo a aquisição de valor sonoro convencional.
 
+**Resposta**: BORBOLETA, COBRA, ELEFANTE, GIRAFA, JACARÉ, LEÃO, MACACO, ONÇA, PAVÃO, RAPOSA.
+
 ### Página 28
 
 **Objetivo** – ler e escrever palavras, observando a relação fonema - grafema; registrar palavras utilizando a letra de fôrma maiúscula.
@@ -40,15 +42,21 @@ folder: mydoc
 - solicitar que a criança grife a palavra que indica nome de animais.
 - para copiar, a criança deve usar letra de fôrma maiúscula.
 
+**Resposta**: Nomes de animais: TAMANDUÁ, COELHO, CAVALO, GALO, GALINHA, PASSARINHO, CISNE, CACHORRO, SAPO, ARANHA, COBRA, LAGARTO, TUBARÃO, TATU.
+
 ### Página 29
 
 **Objetivo** - conhecer as letras, observar a semelhança entre os fonemas, e fazer a correspondência entre fonema e grafema das palavras.
+
+**Resposta** da atividade 4: Letras diferentes: G, R, P.
+
+**Resposta** da atividade 5: Letras iguais: E, L, E, A, N, T, E; S, A, P, O; B, L, E, T, A.
 
 **Sugestão**:
 - ler as palavras, vagarosamente, para que haja a percepção dos diferentes fonemas.
 
 {% include desafio-digital.html
-    title="Toca dos Ratos"
+    title="Gato e Rato"
     ss="por006sond.png"
     content="Relação Fonema e grafema"
     purpose="escolher a letra inicial do nome do objeto."
@@ -66,7 +74,7 @@ folder: mydoc
 - informar que na listagem, há palavras parecidas e que há necessidade de atenção e de contagem do número de letras.
 
 {% include desafio-digital.html
-    title="Toca dos Ratos"
+    title="A Infestação de Ratos"
     ss="por006ativ.png"
     content="Valor sonoro convencional (as letras nas palavras)"
     purpose="observar o objeto e clicar em cima da letra que inicia a palavra."
@@ -92,7 +100,7 @@ folder: mydoc
 - acompanhar o preenchimento da resposta.
 - incentivar a escolha de nomes para o personagem e ajudar a escrever, se for necessário.
 
-**Resposta**: pessoal.
+**Resposta**: O personagem é ANIMAL. O nome é resposta pessoal.
 
 ### Página 33
 

@@ -16,7 +16,7 @@ folder: mydoc
 
 ### Página 10
 
-**Objetivo** – conhecer com as letras do alfabeto.
+**Objetivo** – conhecer as letras do alfabeto (vogais e consoantes).
 
 **Sugestões**:
 - pedir que a criança fale as letras, em sequência.
@@ -26,7 +26,7 @@ folder: mydoc
 **Resposta**: As respostas são pessoais, de acordo com o nome da criança e da escola.
 
 {% include desafio-digital.html
-    title="Caçador de tumbas"
+    title="O Templo da Perdição"
     ss="por004ativ.png"
     content="Letras do alfabeto"
     purpose="observar as letras e escolher a que é consoante."
@@ -59,7 +59,7 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 **Objetivo**: ler e escrever nome e sobrenome.
 
 **Sugestões**:
-- verificar se a criança sabe escrever o nome e sobrenome. Se não souber, escreva para ela numa folha avulsa e peça para observar as letras e copiar no espaço a atividade.
+- verificar se a criança sabe escrever o nome e sobrenome. Se não souber, escreva para ela numa folha avulsa e peça para observar as letras e copiar no espaço da atividade.
 - fazer o mesmo procedimento na proposta de escrever nome de colega e pessoa da família.
 
 ### Página 14
@@ -107,6 +107,7 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 - ajudar a achar no banco, a palavra correspondente, perguntando o que é a figura e onde estará a palavra.
 - chamar atenção para a letra inicial e para a quantidade de letras numa palavra.
 
+**Resposta**: Na ordem: PIPA, PATINETE, PIÃO, RAQUETE, CORNETA, BONECA, ROBÔ, AVIÃO.
 
 ### Página 19
 
@@ -116,8 +117,10 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 - oralmente, falar ou “cantar” a sequência das letras do alfabeto.
 - acompanhar a fala, observando os espaços que devem ser preenchidos.
 
+**Resposta**: D, E, G, K, L, O, P, Q, T, V, X, Y.
+
 {% include desafio-digital.html
-    title="Caçador de tumbas"
+    title="A Relíquia do Templo"
     ss="por004sond.png"
     content="Ordem alfabética"
     purpose="escolher a letra que deve vir em seguida àquela que aparece no desafio."
@@ -152,6 +155,8 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 **Objetivo** – interpretar pequeno texto, relacionando significado da imagem com as palavras e frases.
 
 **Sugestões**: 
-- ler as características dos personagens.
+- ler as características dos personagens nas páginas iniciais (página 5).
 - chamar atenção para as figuras que representam os personagens.
 - permitir que os alunos identifiquem os personagens, a partir das dicas.
+
+**Resposta**: Da esquerda para a direita: MAITÊ, DIMI, MEL, ARTUR.
