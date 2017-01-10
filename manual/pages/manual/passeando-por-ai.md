@@ -30,9 +30,9 @@ folder: mydoc
                     2 – NAVIO, BARCO
 
 {% include desafio-digital.html
-    title="Trem Enguiçado"
+    title="O Maquinista"
     ss="por001sondd.png"
-    content="Ortografia: palavras que apesentam BR, CR, DR, FR, GR, PR e TR"
+    content="Ortografia: palavras que apresentam BR, CR, DR, FR, GR, PR e TR"
     purpose="observar a lacuna da palavra e escolher as letras que a completam."
 %}
 
@@ -119,11 +119,11 @@ folder: mydoc
 - corrigir as respostas, escrevendo o correto numa folha avulsa e pedir para a criança comparar.
 
 **Resposta**:  Questões 1  e 2 - responder no texto .
-                     Questão 3 – Parte de PERNAMBUCO e vai para o CEARÁ.   
+                     Questão 3 – Parte de PERNAMBUCO e vai para o CEARÁ.   Respostas pessoais.
                             
 {% include desafio-digital.html
-    title="Trem Enguiçado"
-    ss="por001sondb.png"
+    title="Arrumando a Fornalha"
+    ss="por001ativb.png"
     objective="identificar as letras que completam corretamente as palavras e formar a imagem mental ortográfica das palavras."
     content="Ortografia: palavras que apresentam vogal mais L (AL, EL, IL, OL, UL)."
     purpose="complete as palavras com as letras corretas."

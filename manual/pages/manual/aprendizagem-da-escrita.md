@@ -8,12 +8,11 @@ toc: false
 
 A construção do conhecimento e da alfabetização é a base da pesquisa da educadora Emília Ferrero. Segundo essa pesquisadora argentina, não há um método de alfabetização propriamente dito, mas sim procedimentos que visam à participação das crianças em práticas sociais de leitura e de escrita.
 
-Para o desenvolvimento da mediação do educador no processo de aquisição da língua escrita, é importante entender as fases organizadas na pesquisa da Dra Emília Ferrero.
+Para o desenvolvimento da mediação do educador no processo de aquisição da língua escrita, é importante entender as fases organizadas na pesquisa da Dra. Emília Ferrero.
 
 **Fases**
 
-**Pré-silábica** – a criança não consegue relacionar as letras com os sons da língua falada. Ao solicitarmos a uma criança, cuja hipótese de escrita se encontra nesta fase, que escreva uma palavra, ela utilizará letras ou até rabiscos, aleatoriamente, uma vez que ainda não consegue relacionar as letras ao seu valor sonoro. Na fase pré-silabica, a criança mais imita o gesto da escrita porque ainda não compreendeu que ela representa a fala. Por exemplo, para escrever a palavra CAVALO, a criança pode representar da seguinte maneira: DKHF3D6RS4 ou MNDHSGEBHSHDESB. Como vemos, podem apresentar-se casos de não diferenciação entre letras e números.
-
+**Pré-silábica** – a criança não consegue relacionar as letras com os sons da língua falada. Ao solicitarmos a uma criança, cuja hipótese de escrita se encontra nesta fase, que escreva uma palavra, ela utilizará letras ou até rabiscos, aleatoriamente, uma vez que ainda não consegue relacionar as letras ao seu valor sonoro. Na fase pré-silabica, a criança imita o gesto da escrita, porque ainda não compreendeu que ela representa a fala. Por exemplo, para escrever a palavra CAVALO, a criança pode representar da seguinte maneira: DKHF3D6RS4 ou MNDHSGEBHSHDESB. Como vemos, podem apresentar-se casos de não diferenciação entre letras e números.
 
 **Silábica** – nessa fase, a criança interpreta a letra à sua maneira, atribuindo valor de sílaba a cada letra. Muitas vezes, ao escrever uma palavra, a criança silábica escreve apenas as vogais da palavra, mas pode escrever também, consoantes correspondentes à palavra que deseja escrever, ou, o que é mais raro, qualquer letra sem a correspondência sonora. Por exemplo, para escrever CAVALO: AAO, KAO, CVL, CVO, CAO, ou, ainda MOU.
 

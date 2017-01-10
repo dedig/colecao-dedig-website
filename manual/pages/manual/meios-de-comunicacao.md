@@ -29,6 +29,8 @@ folder: mydoc
 - corrigir comparando a escrita da criança com a dos folhetos, jornais e revistas. 
 - salientar que nas revistas e folhetos aparecem vários tipos de letras: de fôrma maiúscula, minúscula e cursiva.
 
+**Resposta**: pessoal.
+
 ### Página 62 e 63
 
 **Objetivo** - reconstruir a base alfabética da escrita, relacionando palavras e sílabas de uma palavra.
@@ -42,9 +44,10 @@ folder: mydoc
 
 **Resposta**: TELEFONE, JORNAL, RÁDIO, TELEVISÃO, COMPUTADOR. 
 
-As letras que aparecem são: A, T, N, E.
+As letras que aparecem são: T, E, L, F, O, N, J, R, A ,D, I, V, S, C, M, P, U.
 
-As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
+As letras que não aparecem são: B, G, H, K, Q, W, X, Y, Z.
+
 
 ### Página 64
 
@@ -57,7 +60,7 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 - informar que devem ser observadas a primeira e última letra das palavras.
 - informar que na listagem, há palavras parecidas e que há necessidade de atenção e de contagem do número de letras.
 
-**Resposta**: TELEVISÃO, REVISTA, RÁDIO, COMPUTADOR, CARTA, CELULAR.
+**Resposta**: TELEVISÃO, REVISTA, COMPUTADOR, CARTA, CELULAR.
 
 ### Página 65
 
@@ -110,7 +113,7 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
     title="Quadrinho"
     ss="quadrinho.png"
     objective="ler, interpretar e inferir ideias presentes no texto e nas imagens. Relacionar o desfecho (final) da história em quadrinhos ao contexto (assunto) do texto lido."
-    content="Leitura de texto verbal (escrita) e multimodal(imagem)."
+    content="Leitura de texto verbal (escrita) e multimodal (imagem)."
     purpose="Apreciar o desfecho (final) da história em quadrinhos e relacionar ao contexto (assunto) do texto lido."
 %}
 
@@ -141,7 +144,8 @@ As letras que não aparecem são: B, G, H, K, Q, X, W, Y, Z.
 
 ### Página 74
 
-**Objetivo** – reconhecer a função e as características do e-mail, como meio de comunicação. Ler e compreender as frases, a fim de construir textos, com significado.
+**Objetivo** – reconhecer a função e as características do e-mail, como meio de comunicação. Ler e compreender frases, a fim de construir textos, com significado.
+
 
 **Sugestões**:
 - ler as informações sobre o texto “e-mail”.

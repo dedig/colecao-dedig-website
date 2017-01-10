@@ -37,6 +37,8 @@ folder: mydoc
 - responder às dúvidas que a criança tiver, durante a realização da atividade.
 - corrigir, escrevendo a palavra numa folha avulsa e pedir para comparar.
 
+**Resposta**: MORANGO, MELANCIA, BANANA, ABACAXI.
+
 ### Página 50
 
 **Objetivo** – identificar valores sonoros convencionais e base alfabética da escrita.
@@ -82,10 +84,10 @@ folder: mydoc
 **Resposta**: pessoal. Possibilidades: JACARÉ, AMANDA, SÃO PEDRO, MESA, JAVALI, ALICE, OSASCO, TESOURA.
 
 {% include desafio-digital.html
-    title="Missão Improvável"
+    title="A Missão Plausível"
     ss="por007ativ.png"
     content="Código linguístico"
-    purpose="escolher as letras que compõem aas palavras e organizá-las na ordem correta."
+    purpose="escolher as letras que compõem as palavras e organizá-las na ordem correta."
 %}
 
 ### Páginas 54 e 55
@@ -99,8 +101,8 @@ folder: mydoc
 - corrigir, usando a comparação.
 - acompanhar a produção do item “modo de fazer”, escrevendo numa folha avulsa, as palavras que apresentam alguma dificuldade.
 
-**Resposta**: Ingredientes: 1 maçã, 1 pera, 1 banana, 5 morangos, metade de um mamão.
-                   Modo de fazer: lave as frutas, descasque, corte em pedaços, coloque numa tigela e misture.
+**Resposta**: INGREDIENTES: 1 MAÇÃ, 1 PERA, 1 BANANA, 5 MORANGOS, METADE DE UM MAMÃO.
+                   MODO DE FAZER: LAVE AS FRUTAS, DESCASQUE, CORTE EM PEDAÇOS, COLOQUE NUMA TIGELA E MISTURE.
 
 ### Página 56
 
@@ -146,6 +148,6 @@ Frutas, verduras e legumes: ABACAXI, BATATA, TOMATE, ALFACE, MORANGO, CENOURA.
 
 Bebidas: REFRIGERANTE, CHÁ, SUCO, ÁGUA, LEITE.
 
-Carnes: PEIXE, LINGUIÇA, HAMBÚRGUER, FRANGO, SALSICHA.
+Carnes: LINGUIÇA, HAMBÚRGUER, FRANGO, SALSICHA.
 
 Limpeza: SABÃO, RODO, DETERGENTE, VASSOURA.
