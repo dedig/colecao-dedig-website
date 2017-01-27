@@ -87,7 +87,7 @@ folder: mydoc
 - permitir que ela comente sobre as características.
 - explicar o significado de porto, aeroporto, rodoviária, estação de trem etc.
 
-**Resposta**: PORTO, RODOVIÁRIA, ESTAÇÃO DE TREM, AEROPORTO, HELIPORTO, CICLOVIA.
+**Resposta**: PORTO, RODOVIÁRIA, ESTAÇÃO DE TREM, AEROPORTO, HELIPORTO (ou HELIPONTO), CICLOVIA.
 
 ### Página 46
 

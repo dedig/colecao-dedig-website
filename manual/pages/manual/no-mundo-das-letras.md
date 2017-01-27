@@ -86,7 +86,7 @@ escrever a palavra corretamente e pedir para a criança comparar com a que monto
 - peça para a criança dizer as letras que estão no quadro.
 - ajude-a a combinar as letras para formar palavras. 
 
-**Respostas possíveis**: LUTA, TORA, RATO, TALO, PORTA, RUA, LUPA, TOPA, PRATO, TORTA etc.
+**Respostas possíveis**: LUTA, TORA, RATO, TALO, PORTA, RUA, LUPA, TOPA, PRATO, TORTA, MARTA, MATO, LAMA, RAMO, MAPA, POMAR, MALA, MOLA, MORA, MORAR, TOMAR, TOMA etc.
 
 ### Página 17
 
