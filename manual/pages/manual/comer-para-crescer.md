@@ -49,7 +49,7 @@ folder: mydoc
 - conferir se foram encontradas todas as palavras.
 
 **Resposta**: HORIZONTAIS – CAJU, JABUTICABA, COCO, UVA, MAÇÃ.
-                    VERTICAIS – CUPUAÇU, MAMÃO, CEREJA, AMORA, ABACATE.
+                    VERTICAIS – CUPUAÇU, CAQUI, MAMÃO, CEREJA, AMORA, ABACATE.
 
 ### Página 51
 
@@ -59,7 +59,7 @@ folder: mydoc
 - ler as palavras assinaladas no quadro da página anterior.
 - observar as letras iniciais das palavras.
 
-**Resposta**: letra C inicial – 4 palavras; letra M inicial – 2 palavras; letra A inicial – 2 palavras.
+**Resposta**: letra C inicial – 5 palavras; letra M inicial – 2 palavras; letra A inicial – 2 palavras.
 
 ### Página 52
 
